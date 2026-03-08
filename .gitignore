@@ -1,0 +1,39 @@
+# ── Data & outputs (keep only scripts) ────────────
+*.pdf
+*.png
+*.txt
+*.tif
+*.tiff
+*.nc
+*.nc4
+
+# ── Directories ───────────────────────────────────
+geotiff/
+netcdf/
+figs/
+reports/
+
+# ── Python ────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# ── Environments ──────────────────────────────────
+.env
+.venv/
+env/
+venv/
+
+# ── IDE / OS ──────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
