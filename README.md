@@ -102,4 +102,4 @@ The scripts are designed to be run sequentially from within the `scripts/` direc
 
 Copyright © 2026 Center for Agrarian Studies, Bandung Institute of Technology (ITB).
 
-This project, including the code in this repository and the associated data hosted on OSF, is licensed under the MIT License. See the `LICENSE` file for details.
+This project, including the code in this repository and the associated data hosted on OSF, is licensed under the [MIT License](https://github.com/sandyherho/supplPIK2LULC/blob/main/LICENSE)
