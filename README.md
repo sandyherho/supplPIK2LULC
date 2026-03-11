@@ -1,5 +1,6 @@
 # Supplementary Code: "The Information Geometry of Primitive Accumulation: Quantifying Capitalist Enclosure in PIK2, Indonesia"
 
+[![DOI](https://zenodo.org/badge/1176348788.svg)](https://doi.org/10.5281/zenodo.18947822)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
