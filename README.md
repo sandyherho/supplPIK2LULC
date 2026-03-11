@@ -1,4 +1,3 @@
-```markdown
 # Supplementary Code: "The Information Geometry of Primitive Accumulation: Quantifying Capitalist Enclosure in PIK2, Indonesia"
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -140,7 +139,3 @@ The scripts are designed to be run sequentially from within the `scripts/` direc
 Copyright © 2026 Center for Agrarian Studies, Bandung Institute of Technology (ITB).
 
 This project, including the code in this repository and the associated data hosted on OSF, is licensed under the [MIT License](https://github.com/sandyherho/supplPIK2LULC/blob/main/LICENSE).
-
-```
-
-```
