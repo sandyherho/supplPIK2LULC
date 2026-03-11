@@ -1,5 +1,14 @@
 # Supplementary Code: "The Information Geometry of Primitive Accumulation: Quantifying Capitalist Enclosure in PIK2, Indonesia"
 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![netCDF4](https://img.shields.io/badge/netCDF4-005571?style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/Rasterio-4B8BBE?style=for-the-badge)
+![PyProj](https://img.shields.io/badge/PyProj-5C5C5C?style=for-the-badge)
+![PyGMT](https://img.shields.io/badge/PyGMT-2980B9?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F1C40F?style=for-the-badge)](LICENSE)
+[![OSF DOI](https://img.shields.io/badge/OSF_DOI-10.17605%2FOSF.IO%2FZTWVU-337AB7?style=for-the-badge)](https://doi.org/10.17605/OSF.IO/ZTWVU)
 
 ## Overview
 
