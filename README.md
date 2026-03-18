@@ -1,5 +1,6 @@
 # Supplementary Code: "Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia"
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.13715-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2603.13715)
 [![DOI](https://zenodo.org/badge/1176348788.svg)](https://doi.org/10.5281/zenodo.18947822)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
@@ -13,7 +14,8 @@
 
 ## Overview
 
-This repository contains the data processing pipelines and analytical scripts required to reproduce the quantitative modeling and figures presented in the manuscript *"The Information Geometry of Primitive Accumulation: Quantifying Capitalist Enclosure in PIK2, Indonesia"*.
+This repository contains the data processing pipelines and analytical scripts required to reproduce the quantitative modeling and figures presented in the manuscript *"Measuring Primitive Accumulation: An Information-Theoretic
+Approach to Capitalist Enclosure in PIK2, Indonesia"*.
 
 The codebase operationalises Marxian political economy concepts (primitive accumulation, subsumption, and enclosure) through the application of information geometry, absorbing Markov chains, and percolation theory applied to high-resolution Sentinel-2 Land Use/Land Cover (LULC) data (2017–2024).
 
