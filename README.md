@@ -27,6 +27,19 @@ The codebase operationalises Marxian political economy concepts (primitive accum
 * **Faruq Khadami**
 * **Iwan P. Anwar**
 
+### Citation
+
+
+```bibtex
+@article{herho2026measuring,
+  title={{Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia}},
+  author={Herho, Sandy Hardian Susanto and Handayani, Alfita Puspa and Sujatmiko, Karina Aprilia and Khadami, Faruq and Anwar, Iwan Pramesti},
+  journal={arXiv preprint arXiv:2603.13715},
+  year={2026},
+  url={https://arxiv.org/abs/2603.13715}
+}
+```
+
 
 ## Data Availability
 
