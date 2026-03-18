@@ -27,7 +27,9 @@ The codebase operationalises Marxian political economy concepts (primitive accum
 * **Faruq Khadami**
 * **Iwan P. Anwar**
 
-### Citation
+## Citation
+
+If you use this code or data in your study, please cite our preprint: 
 
 
 ```bibtex
